@@ -1,0 +1,16 @@
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\Dinomessage.exe
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\Dinomessage.deps.json
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\Dinomessage.runtimeconfig.json
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\Dinomessage.dll
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\Dinomessage.pdb
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\Dinomessage.Form1.resources
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\Dinomessage.csproj.GenerateResource.cache
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\Dinomessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\Dinomessage.AssemblyInfoInputs.cache
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\Dinomessage.AssemblyInfo.cs
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\Dinomessage.csproj.CoreCompileInputs.cache
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\Dinomessage.dll
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\refint\Dinomessage.dll
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\Dinomessage.pdb
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\Dinomessage.genruntimeconfig.cache
+C:\Users\R888s\source\repos\Dinomessage\obj\Release\net8.0-windows\ref\Dinomessage.dll

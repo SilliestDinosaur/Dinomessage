@@ -1,0 +1,5 @@
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\publish\Dinomessage.exe
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\publish\Dinomessage.dll
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\publish\Dinomessage.deps.json
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\publish\Dinomessage.runtimeconfig.json
+C:\Users\R888s\source\repos\Dinomessage\bin\Release\net8.0-windows\publish\Dinomessage.pdb
